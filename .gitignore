@@ -1,0 +1,11 @@
+# Build output
+build/
+.build/
+dist/
+*.zip
+
+# macOS / editors
+.DS_Store
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
